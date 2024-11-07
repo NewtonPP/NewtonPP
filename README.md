@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Prashidha Poudel</h1>
 <h3 align="center">An aspiring Computer Engineering Student, who has vision of building new things while learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtonpp" alt="newtonpp" /></a> </p>
-
 - 👨‍💻 My Portfolio -> [https://cute-creponne-fbb6b3.netlify.app/](https://cute-creponne-fbb6b3.netlify.app/)
 
 - Languages and Frameworks I use **C++, Java Script, Python, Go, React**
