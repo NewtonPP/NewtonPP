@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Prashidha Poudel</h1>
 <h3 align="center">An aspiring Computer Engineering Student, who has vision of building new things while learning.</h3>
 
-- 👨‍💻 My Portfolio -> [https://cute-creponne-fbb6b3.netlify.app/](https://cute-creponne-fbb6b3.netlify.app/)
+- 👨‍💻 My Portfolio -> [[https://prashidha.netlify.app/](https://prashidha.netlify.app/])
 
 - Languages and Frameworks I use **C++, Java Script, Python, Go, React**
 
